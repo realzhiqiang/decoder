@@ -8,5 +8,5 @@
 |Communication|BLE broadcast|
 |Frequency|2.4Ghz|
 |Power Source|4 AA/3 AAA|
-|Exchanged Data|weighing_mode, unit, weight|
+|Exchanged Data|unit, weight|
 |Encrypted|No|

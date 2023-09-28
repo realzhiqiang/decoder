@@ -8,6 +8,6 @@
 |Communication|BLE broadcast|
 |Frequency|2.4Ghz|
 |Power Source|4 AAA|
-|Exchanged Data|weighing_mode, unit, weight, impedance|
+|Exchanged Data|unit, weight, impedance|
 |Encrypted|No|
 |Image|![XMTZC05HM](./../img/XMTZC05HM.png)|
